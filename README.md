@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ParthLPatel
+- 👋 Hi, I’m Parth Patel
 - 👀 I’m interested in Web, Mobile App Development. I’m looking to collaborate on different interesting projects
 - 📫 Please feel free to contact me @parthp603@gmail.com
 
